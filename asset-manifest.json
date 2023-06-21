@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT_TEMPLATE/static/css/main.4d163bf9.css",
+    "main.js": "/REACT_TEMPLATE/static/js/main.07d3183d.js",
+    "index.html": "/REACT_TEMPLATE/index.html",
+    "main.4d163bf9.css.map": "/REACT_TEMPLATE/static/css/main.4d163bf9.css.map",
+    "main.07d3183d.js.map": "/REACT_TEMPLATE/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d163bf9.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
