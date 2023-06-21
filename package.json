@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-phonebook",
+  "name": "react_template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoodPointt.github.io/goit-react-hw-02-phonebook/",
+  "homepage": "https://GoodPointt.github.io/REACT_TEMPLATE/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
